@@ -3,7 +3,7 @@
     <img src="./logo.png" alt="Logo" >
   </a>
 
-<h2 align="center">Whomrx666</h2>
+<h2 align="center">Xphisher</h2>
 
   <p><i>A beginners friendly, Automated phishing tool with 30+ templates.</i></p>
   <p><i> Update V1.0 : Airbnb phishing created & added with premium design >_< </i></p>
