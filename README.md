@@ -56,7 +56,7 @@ $ bash Xphisher.sh
 - `curl`
 - `git`
 
-> All the dependencies will be installed automatically when you run `69phisher` for the first time.
+> All the dependencies will be installed automatically when you run `Xphisher` for the first time.
 
 > Supported Platform : **`Termux`**, **`Ubuntu/Debian/Kali/Parrot`**, **`Arch Linux/Manjaro`**, **`Fedora`**
 ### Blackhat hacker :
