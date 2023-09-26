@@ -50,7 +50,7 @@ $ bash Xphisher.sh
 ```
 - ### Dependencies
 
-**`69phisher`** requires following programs to run properly - 
+**`Xphisher`** requires following programs to run properly - 
 - `php`
 - `wget`
 - `curl`
