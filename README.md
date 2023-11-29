@@ -63,6 +63,9 @@ $ bash Xphisher.sh
 
 - [**Mr.X**](https://github.com/Whomrx666)
 
+**If you want to donate, click on the button**
+<a href="https://saweria.co/whomrx"><img title="Donate" src="https://img.shields.io/badge/Donate-Xphisher-yellow?style=for-the-badge&logo=github"></a>
+
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Whomrx666/Xphisher&type=Date)](https://star-history.com/#Whomrx666/Xphisher &Date)
